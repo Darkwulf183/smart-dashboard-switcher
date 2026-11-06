@@ -1,6 +1,6 @@
 # Smart Dashboard Switcher
 
-<img src="icon.png" alt="Smart Dashboard Switcher" width="160" align="right">
+<img src="https://raw.githubusercontent.com/Darkwulf183/smart-dashboard-switcher/main/icon.png" alt="Smart Dashboard Switcher" width="160" align="right">
 
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://hacs.xyz/)
 [![Validate](https://github.com/Darkwulf183/smart-dashboard-switcher/actions/workflows/validate.yml/badge.svg)](https://github.com/Darkwulf183/smart-dashboard-switcher/actions/workflows/validate.yml)
