@@ -1,0 +1,45 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Smart Dashboard Switcher",
+        "description": "Trage die Dashboard-Pfade ein (z. B. /heizung/0).",
+        "data": {
+          "entity": "Ventil-Entität",
+          "on_path": "Dashboard bei EIN",
+          "off_path": "Dashboard bei AUS",
+          "delay_on": "Verzögerung EIN (Sekunden)",
+          "delay_off": "Verzögerung AUS (Sekunden)",
+          "panel_url": "Sidebar-Pfad (z. B. info-display-2)",
+          "show_sidebar": "In Seitenleiste anzeigen"
+        }
+      }
+    },
+    "error": {
+      "invalid_path": "Bitte einen lokalen Pfad beginnend mit / eingeben.",
+      "invalid_panel": "Ungültiger Sidebar-Pfad (nur a-z, 0-9, - und _).",
+      "panel_taken": "Dieser Sidebar-Pfad ist bereits vergeben."
+    },
+    "abort": {
+      "single_instance_allowed": "Die Integration ist bereits eingerichtet."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Smart Dashboard Switcher konfigurieren",
+        "data": {
+          "entity": "Ventil-Entität",
+          "on_path": "Dashboard bei EIN",
+          "off_path": "Dashboard bei AUS",
+          "delay_on": "Verzögerung EIN (Sekunden)",
+          "delay_off": "Verzögerung AUS (Sekunden)",
+          "show_sidebar": "In Seitenleiste anzeigen"
+        }
+      }
+    },
+    "error": {
+      "invalid_path": "Ungültiger Dashboard-Pfad."
+    }
+  }
+}

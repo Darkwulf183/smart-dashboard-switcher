@@ -1,0 +1,19 @@
+{
+  "domain": "smart_dashboard_switcher",
+  "name": "Smart Dashboard Switcher",
+  "codeowners": [
+    "@Darkwulf183"
+  ],
+  "config_flow": true,
+  "dependencies": [
+    "frontend",
+    "http",
+    "lovelace",
+    "panel_custom"
+  ],
+  "documentation": "https://github.com/Darkwulf183/smart-dashboard-switcher",
+  "integration_type": "service",
+  "iot_class": "calculated",
+  "issue_tracker": "https://github.com/Darkwulf183/smart-dashboard-switcher/issues",
+  "version": "0.2.1"
+}

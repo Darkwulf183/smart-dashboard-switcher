@@ -1,0 +1,45 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Smart Dashboard Switcher",
+        "description": "Enter the dashboard paths (e.g. /heizung/0).",
+        "data": {
+          "entity": "Valve entity",
+          "on_path": "Dashboard when ON",
+          "off_path": "Dashboard when OFF",
+          "delay_on": "Delay ON (seconds)",
+          "delay_off": "Delay OFF (seconds)",
+          "panel_url": "Sidebar path (e.g. info-display-2)",
+          "show_sidebar": "Show in sidebar"
+        }
+      }
+    },
+    "error": {
+      "invalid_path": "Please enter a local path starting with /.",
+      "invalid_panel": "Invalid sidebar path (only a-z, 0-9, - and _).",
+      "panel_taken": "This sidebar path is already in use."
+    },
+    "abort": {
+      "single_instance_allowed": "The integration is already set up."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Configure Smart Dashboard Switcher",
+        "data": {
+          "entity": "Valve entity",
+          "on_path": "Dashboard when ON",
+          "off_path": "Dashboard when OFF",
+          "delay_on": "Delay ON (seconds)",
+          "delay_off": "Delay OFF (seconds)",
+          "show_sidebar": "Show in sidebar"
+        }
+      }
+    },
+    "error": {
+      "invalid_path": "Invalid dashboard path."
+    }
+  }
+}
