@@ -5,6 +5,7 @@
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://hacs.xyz/)
 [![Validate](https://github.com/Darkwulf183/smart-dashboard-switcher/actions/workflows/validate.yml/badge.svg)](https://github.com/Darkwulf183/smart-dashboard-switcher/actions/workflows/validate.yml)
 ![Version](https://img.shields.io/github/v/release/Darkwulf183/smart-dashboard-switcher)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 Home-Assistant-Integration, die auf einem Wand-Tablet oder Info-Display **automatisch zwischen zwei Dashboard-Ansichten umschaltet**, je nachdem, ob eine Entität **an** oder **aus** ist.
 
@@ -90,4 +91,7 @@ Einstellungen lassen sich später jederzeit unter **Konfigurieren** ändern, ohn
 
 ## Lizenz
 
-[MIT](LICENSE)
+Copyright (C) 2026 Darkwulf183
+
+Dieses Projekt steht unter der [GNU General Public License v3.0](LICENSE).
+Du darfst es nutzen, verändern und weitergeben. Veränderte Versionen müssen aber ebenfalls unter der GPL-3.0 mit Quellcode veröffentlicht werden.

@@ -10,6 +10,9 @@ HACS → ⋮ → Benutzerdefinierte Repositories → `https://github.com/Darkwul
 - Mehrere Instanzen möglich
 - Eigene Icons im Ordner `brand/` (ab HA 2026.3)
 
+### Lizenz
+- GNU General Public License v3.0
+
 ### Korrekturen gegenüber der Vorabversion
 - Fehler beim Entladen bzw. Neuladen der Integration behoben
 - Übersetzungen werden jetzt angezeigt (Ordner `translations/`)
