@@ -80,6 +80,14 @@ Einstellungen lassen sich später jederzeit unter **Konfigurieren** ändern, ohn
 2. Das Dashboard **Info Display** unter **Einstellungen → Dashboards** bei Bedarf von Hand löschen
 3. Über HACS entfernen oder den Ordner löschen, dann neu starten
 
+## Mitwirkende
+
+| | Rolle |
+|---|---|
+| [@Darkwulf183](https://github.com/Darkwulf183) | Idee, Entwicklung, Tests, Maintainer |
+| [ChatGPT](https://chatgpt.com) (OpenAI) | Entwicklung der Integration und des Icons |
+| [Claude](https://claude.ai) (Anthropic) | Code-Review, Fehlerbehebung, HACS-Vorbereitung, Repository-Einrichtung |
+
 ## Lizenz
 
 [MIT](LICENSE)
